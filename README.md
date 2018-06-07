@@ -26,5 +26,4 @@ commercial sale or internal use.
 
 Developers can best utilize the CI/CD/CD process by leveraging on Open Source tooling (e.g., Jenkins, GIT, and Bamboo 
 from Atalassian), or AWS services (e.g., Code Deploy) that automates various integration, deployment, and 
-release management tasks.” - Mark Snodgrass
- 
+release management tasks.” - Mark Snodgrass Managing Director of Hararei, Inc., an IT consultancy firm with specialties in Cloud, Cybersecurity, Agile, DevOps, Transformation Change/People and Process. Mark’s expertise is in Cloud, IT Security, Storage, Virtualization and Infrastructure. He held leadership positions with ADP, Merrill Lynch and Accenture and was a technology advisory board member (Google, IBM).
