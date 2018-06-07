@@ -7,6 +7,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.logging.Logger;
 
+import sun.net.www.content.text.plain;
+
 public class RemoteConnection {
 	private final static Logger LOGGER = Logger.getLogger(RemoteConnection.class.getName());
 
@@ -15,7 +17,7 @@ public class RemoteConnection {
 		Connection con = null;
 
 		System.out.println("Inside try");
-		Class.forName("com.mysql.cj.jdbc.Driver");
+		Class.forName("com.mysql.jdbc.Driver");
 		String dbName = "CampusResults";
 		System.out.println(dbName);
 		String userName = "CampusResults";
@@ -97,7 +99,6 @@ public class RemoteConnection {
 			}
 		}
 	}
-
 
 
 
