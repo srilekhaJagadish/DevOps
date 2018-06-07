@@ -3,7 +3,7 @@
 #Creted to test the 1. Continuous Integration - a). Continuous testing, b). Continous build, 2. Continuous Delivery and 3. Continuous Deployment. 
 “The overall objectives of the Agile software development approach are to accelerate time to market and improve code quality…”
 
-The Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment (CD) process 
+“The Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment (CD) process 
 is a framework that enables this approach. The biggest difference between these stages (CI/CDs) is 
 whom it benefits most at each stage.
 
@@ -26,4 +26,5 @@ commercial sale or internal use.
 
 Developers can best utilize the CI/CD/CD process by leveraging on Open Source tooling (e.g., Jenkins, GIT, and Bamboo 
 from Atalassian), or AWS services (e.g., Code Deploy) that automates various integration, deployment, and 
-release management tasks. 
+release management tasks.” - Mark Snodgrass
+ 
